@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <groups>
+        <run>
+            <include name="regression"/>
+        </run>
+    </groups>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests">
+        <parameter name="BrowserName" value="chrome"/>
+        <classes>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.AccountCreationPageTest"/>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.AddToCartPageTest"/>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.EndToEndTest"/>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.HomePageTest"/>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.IndexValidationText"/>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.LoginTest"/>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.OrderedPageTest"/>
+            <class name="pradeepfadatareacademy.Tests.MyStoreTests.SearchResultTest"/>
+        </classes>
+    </test>
+</suite>
