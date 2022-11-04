@@ -10,10 +10,10 @@ import pradeepfadatareacademy.Tests.TestComponent.BaseTest1;
 
 public class AccountCreationPageTest extends BaseTest1 {
 
-    @Test(groups = "sanity",dataProvider = "email",dataProviderClass = DataProvider.class)
-    public void createAccount(String mail){
+    @Test(groups = "sanity")
+    public void createAccount(){
         LoginPage loginPage = indexPage.signin();
-        AccountCreationPage accountCreationPage=loginPage.createAccount(mail);
+        AccountCreationPage accountCreationPage=loginPage.createAccount("padyafadatare@gmail.com");
         String txt=accountCreationPage.accountcreationtxt();
         Assert.assertEquals(txt,"AUTHENTICATION");
 

@@ -27,22 +27,22 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pradeepfadatareacademy.Tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\m\IdeaProjects\SeleniumFrameworkDesign" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PradeepFadatareAutomation.PageObject" />
+      <recent name="PradeepFadatareAutomation.AbstaractComponents" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\m\IdeaProjects\SeleniumFrameworkDesign\src\test\java\pradeepfadatareacademy\Tests" />
       <recent name="C:\Users\m\IdeaProjects\SeleniumFrameworkDesign\logo" />
       <recent name="C:\Users\m\IdeaProjects\SeleniumFrameworkDesign\target\classes" />
       <recent name="C:\Users\91956\IdeaProjects\SeleniumFrameworkDesign\TestSuite" />
       <recent name="C:\Users\91956\IdeaProjects\SeleniumFrameworkDesign" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="pradeepfadatareacademy.Tests" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="PradeepFadatareAutomation.PageObject" />
-      <recent name="PradeepFadatareAutomation.AbstaractComponents" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\m\IdeaProjects\SeleniumFrameworkDesign" />
     </key>
   </component>
   <component name="RunDashboard">
