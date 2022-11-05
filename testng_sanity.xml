@@ -10,7 +10,6 @@
           name="C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests">
         <parameter name="BrowserName" value="chrome"/>
         <classes>
-            
             <class name="pradeepfadatareacademy.Tests.MyStoreTests.AccountCreationPageTest"/>
         </classes>
     </test>
