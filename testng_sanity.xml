@@ -3,14 +3,14 @@
 <suite name="All Test Suite">
     <groups>
         <run>
-            <include name="sanity"/>
-            
+            <include name="sanity"/> 
         </run>
     </groups>
     <test verbose="2" preserve-order="true"
           name="C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests">
         <parameter name="BrowserName" value="chrome"/>
         <classes>
+            
             <class name="pradeepfadatareacademy.Tests.MyStoreTests.AccountCreationPageTest"/>
         </classes>
     </test>
