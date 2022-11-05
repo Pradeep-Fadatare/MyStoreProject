@@ -1,11 +1,9 @@
 package pradeepfadatareacademy.Tests.MyStoreTests;
 
 import PradeepFadatareAutomation.PageObject.AccountCreationPage;
-
 import PradeepFadatareAutomation.PageObject.LoginPage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import pradeepfadatareacademy.Tests.TestComponent.BaseTest1;
 
 public class AccountCreationPageTest extends BaseTest1 {
@@ -15,7 +13,7 @@ public class AccountCreationPageTest extends BaseTest1 {
         LoginPage loginPage = indexPage.signin();
         AccountCreationPage accountCreationPage=loginPage.createAccount("padyafadatare@gmail.com");
         String txt=accountCreationPage.accountcreationtxt();
-//        Assert.assertEquals(txt,"CREATE AN ACCOUNT");
+//        Assert.assertEquals(txt,"AUTHENTICATION");
 
     }
 }

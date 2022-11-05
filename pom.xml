@@ -20,6 +20,10 @@
                         <suiteXmlFiles>
                             <suiteXmlFile>testng_sanity.xml</suiteXmlFile>
                         </suiteXmlFiles>
+                        <systemPropertyVariables>
+                            <browser>${/browser}</browser>
+                        </systemPropertyVariables>
+
                     </configuration>
                 </plugin>
             </plugins>

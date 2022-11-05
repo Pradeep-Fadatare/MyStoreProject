@@ -11,6 +11,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -23,12 +25,12 @@ public class BaseTest1 {
     public IndexPage indexPage;
     public Properties prop;
 
-//    @Parameters("BrowserName")
-    public WebDriver initialiseDriver() throws IOException {
+
+    public WebDriver initialiseDriver(String BrowserName) throws IOException {
         FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "\\src\\main\\java\\PradeepFadatareAutomation\\Resources\\GlobalData.properties");
         prop = new Properties();
         prop.load(fis);
-        String BrowserName = prop.getProperty("browser");
+//        String BrowserName = prop.getProperty("browser");
         if (BrowserName.equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
             driver = new ChromeDriver();
@@ -46,10 +48,10 @@ public class BaseTest1 {
         return driver;
     }
 
-//    @Parameters("BrowserName")
+    @Parameters("BrowserName")
     @BeforeMethod(alwaysRun = true)
-    public IndexPage launchApplication() throws IOException {
-        driver = initialiseDriver();
+    public IndexPage launchApplication(String browser) throws IOException {
+        driver = initialiseDriver(browser);
         driver.get(prop.getProperty("url"));
         indexPage=new IndexPage(driver);
         return indexPage;

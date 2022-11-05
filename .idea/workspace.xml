@@ -3,7 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="96394303-8ecf-44f3-95ce-710f512273bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/C__Users_m_IdeaProjects_SeleniumFrameworkDesign_src_test_java_pradeepfadatareacademy_Tests_MyStoreTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/C__Users_m_IdeaProjects_SeleniumFrameworkDesign_src_test_java_pradeepfadatareacademy_Tests_MyStoreTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/C__Users_m_IdeaProjects_SeleniumFrameworkDesign_src_test_java_pradeepfadatareacademy_Tests_MyStoreTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/C__Users_m_IdeaProjects_SeleniumFrameworkDesign_src_test_java_pradeepfadatareacademy_Tests_MyStoreTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.AccountCreationPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.AccountCreationPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_sanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_sanity.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +87,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SendEmail">
+  <component name="RunManager" selected="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_sanity.xml">
+    <configuration name="AccountCreationPageTest.createAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFrameworkDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pradeepfadatareacademy.Tests.MyStoreTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="pradeepfadatareacademy.Tests.MyStoreTests" />
+      <option name="MAIN_CLASS_NAME" value="pradeepfadatareacademy.Tests.MyStoreTests.AccountCreationPageTest" />
+      <option name="METHOD_NAME" value="createAccount" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_all.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumFrameworkDesign" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_all.xml" />
@@ -90,9 +136,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_crossBrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumFrameworkDesign" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_crossBrowser.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_regression.xml" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -145,33 +191,6 @@
       <option name="MAIN_CLASS_NAME" value="pradeepfadatareacademy.Tests.ErroValidationTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalApplicationTest.lastTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumFrameworkDesign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pradeepfadatareacademy.Tests.MyStoreTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="pradeepfadatareacademy.Tests.MyStoreTests" />
-      <option name="MAIN_CLASS_NAME" value="pradeepfadatareacademy.Tests.MyStoreTests.FinalApplicationTest" />
-      <option name="METHOD_NAME" value="lastTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -286,19 +305,19 @@
     <list>
       <item itemvalue="TestNG.ErroValidationTest" />
       <item itemvalue="TestNG.pradeepfadatareacademy" />
-      <item itemvalue="TestNG.FinalApplicationTest.lastTest" />
       <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_sanity.xml" />
-      <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_crossBrowser.xml" />
       <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_all.xml" />
       <item itemvalue="TestNG.SendEmail" />
+      <item itemvalue="TestNG.AccountCreationPageTest.createAccount" />
+      <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_regression.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_sanity.xml" />
+        <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_regression.xml" />
+        <item itemvalue="TestNG.AccountCreationPageTest.createAccount" />
         <item itemvalue="TestNG.SendEmail" />
         <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_all.xml" />
-        <item itemvalue="TestNG.FinalApplicationTest.lastTest" />
-        <item itemvalue="TestNG.FinalApplicationTest.lastTest" />
-        <item itemvalue="TestNG.C:/Users/m/IdeaProjects/SeleniumFrameworkDesign/testng_crossBrowser.xml" />
       </list>
     </recent_temporary>
   </component>
