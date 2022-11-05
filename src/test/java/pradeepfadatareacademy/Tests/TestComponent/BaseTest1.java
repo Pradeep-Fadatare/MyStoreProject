@@ -11,7 +11,6 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Parameters;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -24,16 +23,16 @@ public class BaseTest1 {
     public IndexPage indexPage;
     public Properties prop;
 
-    @Parameters("BrowserName")
-    public WebDriver initialiseDriver(String BrowserName) throws IOException {
+//    @Parameters("BrowserName")
+    public WebDriver initialiseDriver() throws IOException {
         FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "\\src\\main\\java\\PradeepFadatareAutomation\\Resources\\GlobalData.properties");
         prop = new Properties();
         prop.load(fis);
-//        String BrowserName = prop.getProperty("browser");
+        String BrowserName = prop.getProperty("browser");
         if (BrowserName.equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
             driver = new ChromeDriver();
-        } else if (BrowserName.equalsIgnoreCase("Fireox")) {
+        } else if (BrowserName.equalsIgnoreCase("Firefox")) {
             WebDriverManager.firefoxdriver().setup();
             driver = new FirefoxDriver();
         } else if (BrowserName.equalsIgnoreCase("edge")) {
@@ -47,10 +46,10 @@ public class BaseTest1 {
         return driver;
     }
 
-    @Parameters("BrowserName")
+//    @Parameters("BrowserName")
     @BeforeMethod(alwaysRun = true)
-    public IndexPage launchApplication(String BrowserName) throws IOException {
-        driver = initialiseDriver(BrowserName);
+    public IndexPage launchApplication() throws IOException {
+        driver = initialiseDriver();
         driver.get(prop.getProperty("url"));
         indexPage=new IndexPage(driver);
         return indexPage;
@@ -68,7 +67,8 @@ public class BaseTest1 {
 
 
     @AfterMethod(alwaysRun = true)
-    public void tearDown() {
+    public void tearDown()
+    {
         driver.quit();
     }
 }

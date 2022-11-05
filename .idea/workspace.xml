@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96394303-8ecf-44f3-95ce-710f512273bb" name="Default Changelist" comment="" />
+    <list default="true" id="96394303-8ecf-44f3-95ce-710f512273bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/MyStoreTests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.ErroValidationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.AccountCreationPageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.AddToCartPageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.FinalApplicationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.HomePageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.LoginTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.OrderedPageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-pradeepfadatareacademy.Tests.MyStoreTests.SearchResultTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/AccountCreationPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/AddToCartPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/AddToCartPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/MyStoreTests/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pradeepfadatareacademy/Tests/TestComponent/BaseTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_all.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_all.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_crossBrowser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_crossBrowser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_regression.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_sanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_sanity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_smoke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_smoke.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,14 +72,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2FRpmLZKUqAtvIBJVwlWK84KToB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/pradeepfadatareacademy/Tests" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">

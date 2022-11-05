@@ -10,7 +10,7 @@ import pradeepfadatareacademy.Tests.TestComponent.BaseTest1;
 
 public class LoginTest extends BaseTest1 {
     @Test(groups = {"smoke","sanity"})
-    public void logintoApplication(String username,String password) {
+    public void logintoApplication() {
         LoginPage loginPage = indexPage.signin();
         HomePage homePage = loginPage.login("admin@xyz.com", "admin@123");
 //        HomePage homePage = loginPage.login("admin1@xyz.com", "admin@123");
